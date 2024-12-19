@@ -43,3 +43,5 @@ información fundamentada en textos legales, académicos y periodísticos.
 El análisis se estructuró en dos áreas principales: la reforma al poder judicial y la reforma a los
 organismos autónomos. En este reporte, se documentan los algoritmos utilizados, herramientas
 generadas, datos empleados, y el proceso de análisis llevado a cabo.
+Link del video:
+https://www.youtube.com/watch?v=tPna3a4Ij1U
